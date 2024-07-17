@@ -1,0 +1,35 @@
+[
+    {
+        "id": 1,
+        "name": "Museum Angkut, Batu",
+        "description": "Museum Angkut menampilkan lebih dari 300 jenis kendaraan, dari yang tradisional hingga modern, termasuk mobil, becak, dan miniatur kapal. Selain itu, museum ini menawarkan pemandangan bangunan dari benua Asia, Eropa, dan Amerika.",
+        "details": "Museum ini didirikan pada 9 Maret 2014 dan dikelola oleh Jawa Timur Park Grup. Grup ini sebelumnya telah membangun banyak tempat wisata dan museum, termasuk Batu Secret Zoo, Jatim Park I dan II, Batu Night Spectacular, Eco Green Park, dan Museum Satwa.",
+        "image": "img/Museum_Angkut.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Museum Sepuluh Nopember, Surabaya",
+        "description": "Museum Sepuluh Nopember didirikan atas usulan Presiden pertama Indonesia, Ir Soekarno. Tujuan dibangunnya museum ini adalah sebagai penunjang keberadaan Monumen Tugu Pahlawan yang lebih dulu didirikan pada 10 November 1951.",
+        "details": "Dimulai pada 10 November 1991, Museum Sepuluh Nopember dimulai dan selesai pada 19 Februari 2000. Setelah itu, KH Abdurrahman Wahid, yang juga dikenal sebagai Gus Dur, diresmikan sebagai Presiden Republik Indonesia.",
+        "image": "img/Museum_Sepuluh.jpeg"
+    },
+    {
+        "id": 3,
+        "name": "Jawa Timur Park 1, Malang",
+        "description": "Tempat wisata yang satu ini mungkin menjadi salah satu yang paling terkenal di Jawa Timur. Jawa Timur Park 1 pun menjadi salah satu taman bermain terbesar yang ada di Malang. Lebih dari sekedar taman bermain, tempat wisata ini juga menjadi sarana edukasi yang bagus untuk anak-anak. Ada sekitar 50 wahana permainan yang bisa kamu coba di sini, seperti mini jet, flying tornado, worm coaster, galaxy bumper car, fantastic swimming pool, volcano coaster dan masih banyak lagi. Kamu, keluarga dan teman-teman bisa bermain sepuasnya di semua wahana tersebut mulai dari pukul 08.30 hingga 16.30 WIB. Sedangkan, untuk harga tiket masuknya yaitu Rp 60.000 pada hari Senin hingga Kamis dan Rp 80.000 pada hari Jumat hingga Minggu.",
+        "image": "img/Jatim_Park.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Batu Night Spectaculer, Malang",
+        "description": "Keindahan Malang tidak hanya bisa kamu nikmati pada siang hari saja, tetapi juga  malam hari. Salah satu tempat wisata yang menarik untuk kamu kunjungi adalah Batu Night Spectacular. Bila berkunjung ke sini, kamu akan disambut dengan lampu hias berbentuk binatang dan bunga yang berwarna-warni. Selain itu, tempat ini juga memiliki banyak sekali wahana rekreasi menarik, seperti Circuit Go Kart, Drag Race, Disco Bumper Car, Lampion Garden, Magic Square dan masih banyak lagi. Untuk harga tiket masuk, Batu Night Spectaculer memasang harga Rp 30.000 saat weekdays dan Rp 40.000 saat weekend.",
+        "image": "img/BNS.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Wisata Bahari Lamongan, Lamongan",
+        "description": "Wisata Bahari Lamongan adalah tempat yang tepat untuk dikunjungi jika Anda ingin melakukan perjalanan yang melibatkan pendidikan dan hiburan. Tempat ini buka dari pukul 08.30 hingga sore hari, dan memiliki banyak wahana permainan menarik untuk dinikmati. Ada area panahan, banana boat, area foto cowboy, zona perang, sepeda air, big hammer, dan banyak lagi. Harga tiket per wahana permainan di tempat ini bervariasi dari Rp 5.000 hingga Rp 225.000, membuatnya berbeda dari tempat wisata lainnya.",
+        "image": "img/WBL.jpg"
+    }
+]
+  

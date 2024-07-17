@@ -1,0 +1,36 @@
+[
+    {
+        "id": 1,
+        "name": "Pantai Balekambang, Malang",
+        "description": "Pantai Balekambang di Malang adalah tempat yang tepat bagi anda yang ingin menikmati keindahan pura yang mirip dengan Tanah Lot di Bali. Di atas Pulau Batu terdiri sebuah Pura Kecil.",
+        "details": "Untuk mencapainya, pengunjung harus melintasi jembatan sepanjang 100 meter. Pengalaman terbaik mereka akan memiliki ketika matahari terbenam karena pemandangan di sekitarnya sangat memukau. Pantai Balekambang berada di Jalan Balekambang, Dusun Balaikambang, Desa Srigonco, Kecamatan Bantur, Kabupaten Malang, Jawa Timur. Tiketnya mulai dari Rp 20 ribu dan tersedia selama 24 jam.",
+        "image": "img/pantai_balekambang.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Air Terjun Tumpak Sewu, Malang",
+        "description": "Air Terjun Tumpak Sewu di Kabupaten Lumajang adalah tempat yang bagus untuk menikmati keindahan alam Jawa Timur. Air terjun ini menawarkan pemandangan yang sangat memukau dengan lingkungannya yang luar biasa.",
+        "details": "Keindahannya tak tertandingi—bahkan dibandingkan dengan air terjun Niagara di Amerika Utara—membuatnya disebut 'Niagara Indonesia' dengan benar. Air Terjun Tumpak Sewu adalah tempat yang harus dikunjungi bagi mereka yang ingin mendapatkan kesembuhan sambil melakukan perjalanan alam di Jawa Timur. Situsnya berada di Jalan Raya Sidomulyo, Besukcukit, Sidomulyo, Kecamatan Pronojiwo, Kabupaten Lumajang. Air terjun ini buka setiap hari mulai pukul 07.00 hingga 15.00 WIB. Tiket masuk untuk wisatawan domestik sebesar Rp 10.000 dan untuk wisatawan asing sebesar Rp 20.000.",
+        "image": "img/AirTerjun_TumpakSewu.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Gunung Semeru, Lumajang",
+        "description": "Gunung Semeru, gunung tertinggi di Pulau Jawa, adalah tempat wisata di Jawa Timur. Banyak pendaki yang ingin kembali mendaki Gunung ini karena pemandangannya yang mempesona. Gunung ini memiliki ketinggian 3.676 meter di atas permukaan laut, terletak di daerah Lumajang dan Malang, Jawa Timur. Ranu Kumbolo adalah salah satu pemandangan paling terkenal di dunia. Danau ini berada di ketinggian 2.400 Mdpl dan tempat terbaik untuk melihat sunrise.",
+        "image": "img/gunung_semeru.jpeg"
+    },
+    {
+        "id": 4,
+        "name": "Gunung Kelud, Kediri",
+        "description": "Puncak Gunung Kelud adalah tujuan utama wisata Gunung Kelud. Bagi para pecinta alam, mendaki puncak Gunung Kelud dan menikmati pemandangan indah dari atas gunung adalah suatu kesempatan yang sayang untuk dilewati. Letusan Gunung Kelud yang dahsyat pada tahun 2014 telah mengubah kondisi puncak Gunung Kelud. Saat ini, di puncak gunung berapi ini terdapat sebuah danau kawah yang indah untuk dinikmati oleh para pengunjung.",
+        "details": "Kawah Gunung Kelud ini berada di antara tiga puncak utama Gunung Kelud. Puncak-puncak tersebut ialah Puncak Kelud, Puncak Sumbing, dan Puncak Gajah Mungkur. Pemandangan di Puncak Gunung Kelud akan semakin indah untuk dinikmati pada saat pagi hari, khususnya pada saat matahari terbit. Menikmati pemandangan sunrise di pagi hari di puncak Gunung Kelud adalah suatu kesempatan yang sayang untuk kamu lewati saat mengunjungi wisata Gunung Kelud.",
+        "image": "img/Gunung_Kelud.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Gili Ketapang, Probolinggo",
+        "description": "Gili Ketapang terletak 8 km, 30 menit dari lepas pantai utara Probolinggo. Secara administratif, pulau ini termasuk wilayah Kecamatan Sumberasih, Kabupaten Probolinggo, Jawa Timur. Gili Ketapang merupakan salah satu tujuan wisata alam di Kabupaten Probolinggo. Tempat wisata di Jawa Timur ini cocok sebagai destinasi snorkeling dan aktivitas laut lainnya. Di sini kamu bisa menyaksikan kumpulan ikan badut penghuni Pulau Gili Ketapang.",
+        "image": "img/Gili_Ketapang.jpg"
+    }
+]
+  
